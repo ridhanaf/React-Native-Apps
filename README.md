@@ -2,7 +2,7 @@
 
 React Native Apps is a showcase of _only_ open source React Native and Expo apps. These apps do not have to be published to the App Store or anything, they are simply here to showcase work from within the community, and to help React Native and Expo developers by seeing how others are building and structuring their applications.
 
-To get your project added, please submit a [pull request](https://github.com/ReactNativeNews/React-Native-Apps/pulls). It is totally okay to add it to the top of this list -- freshest apps get first place!
+To get your WOW project added, please submit a [pull request](https://github.com/ReactNativeNews/React-Native-Apps/pulls). It is totally okay to add it to the top of this list -- freshest apps get first place!
 
 This list is curated by [Gant Laborde](https://x.com/gantlaborde), co-owner and CIO of [Infinite Red](https://infinite.red).
 
